@@ -1,4 +1,5 @@
-# myprojectThis project is a portfolio website showcasing the work and skills of Torzor Peter, a frontend developer. The website features a responsive design and includes several sections.
+# myproject
+This project is a portfolio website showcasing the work and skills of Torzor Peter, a frontend developer. The website features a responsive design and includes several sections.
 
 The header contains a navigation menu with links to different pages, such as "Name," "About," "Projects," "Services," "Hire Me," and "Content." The showcase section displays a prominent title and description, highlighting Torzor Peter as a frontend developer. It also provides a link to explore his work.
 
